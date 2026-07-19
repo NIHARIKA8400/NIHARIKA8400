@@ -69,3 +69,77 @@ Open To     : Internships & Open Source
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIHARIKA8400&theme=tokyo-night&hide_border=true"/>
 </p>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+A modern responsive portfolio showcasing my skills, projects and achievements.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather App
+A real-time weather application using the OpenWeather API.
+
+**Tech Stack:** HTML • CSS • JavaScript • API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Scientific Calculator
+A Casio-inspired scientific calculator with advanced mathematical functions.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍵 Paan Shop Website
+A responsive business website for a local paan shop with a clean and modern interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎂 Happy Birthday Website
+A creative birthday greeting website with animations and interactive effects.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Projects
+Python, SQL, Excel and Power BI projects.
+
+🚧 Coming Soon...
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### ⭐ GitHub Profile
+Building a premium cyberpunk-themed GitHub profile with a custom banner, animated sections and modern UI.
+
+🚧 Currently Under Development
+
+</td>
+</tr>
+</table>
