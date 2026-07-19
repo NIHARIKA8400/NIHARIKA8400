@@ -143,3 +143,20 @@ Building a premium cyberpunk-themed GitHub profile with a custom banner, animate
 </td>
 </tr>
 </table>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+
+A modern and responsive personal portfolio showcasing my skills, projects, achievements, and contact information.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/NIHARIKA8400/portfolio">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+</td>
