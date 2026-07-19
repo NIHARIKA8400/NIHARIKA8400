@@ -35,7 +35,27 @@ Open To     : Internships & Open Source
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=NIHARIKA8400&theme=tokyonight&hide_border=true"/>
 </p>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NIHARIKA8400&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" />
+</p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niharika-singh-b18296335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/NIHARIKA8400">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/NIHARIKA8400">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -43,4 +63,9 @@ Open To     : Internships & Open Source
   <a href="https://www.linkedin.com/in/niharika-singh-b18296335">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIHARIKA8400&theme=tokyo-night&hide_border=true"/>
 </p>
