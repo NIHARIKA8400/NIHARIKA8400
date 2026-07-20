@@ -39,9 +39,6 @@
 <img src="https://img.shields.io/badge/🌱_Learning-Java_&_Python-00CED1?style=for-the-badge"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Niharika Singh</h1>
-
-<h3 align="center">Computer Science Student | Aspiring Data Analyst | Web Developer</h3>---
 
 ## 👩‍💻 About Me
 
@@ -123,6 +120,14 @@ Open To     : Internships & Open Source
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIHARIKA8400&theme=tokyo-night&hide_border=true"/>
 </p>
+
+## 🏆 Achievements
+
+- 🚀 Built and deployed multiple responsive websites
+- 💻 Created JavaScript based applications
+- 🌱 Learning Data Analytics & Machine Learning
+- ⭐ Active GitHub contributor
+  
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -240,3 +245,6 @@ A creative animated birthday website with interactive effects and a modern UI.
 ## ☕ Support Me
 
 ⭐ If you like my work, don't forget to Star my repositories!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+</p>
