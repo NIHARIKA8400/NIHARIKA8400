@@ -73,90 +73,107 @@ Open To     : Internships & Open Source
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💼 Portfolio Website
-A modern responsive portfolio showcasing my skills, projects and achievements.
 
-**Tech Stack:** HTML • CSS • JavaScript
+A modern, responsive personal portfolio showcasing my skills, projects, achievements, and contact information.
+
+**🛠 Tech Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/NIHARIKA8400/portfolio">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🌦️ Weather App
-A real-time weather application using the OpenWeather API.
 
-**Tech Stack:** HTML • CSS • JavaScript • API
+A real-time weather application powered by the OpenWeather API.
+
+**🛠 Tech Stack:** HTML • CSS • JavaScript • API
+
+<a href="https://github.com/NIHARIKA8400/WEATHER-APP">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/WEATHER-APP/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧮 Scientific Calculator
+
 A Casio-inspired scientific calculator with advanced mathematical functions.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**🛠 Tech Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/NIHARIKA8400/scientific--calculator-">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/scientific--calculator-/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🍵 Paan Shop Website
-A responsive business website for a local paan shop with a clean and modern interface.
 
-**Tech Stack:** HTML • CSS • JavaScript
+A responsive business website with a clean, modern interface.
+
+**🛠 Tech Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/NIHARIKA8400/paan-shop-website">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/paan-shop-website/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 🎂 Happy Birthday Website
-A creative birthday greeting website with animations and interactive effects.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analytics Projects
-Python, SQL, Excel and Power BI projects.
-
-🚧 Coming Soon...
-
-</td>
-</tr>
-
-<tr>
 <td colspan="2" align="center">
 
-### ⭐ GitHub Profile
-Building a premium cyberpunk-themed GitHub profile with a custom banner, animated sections and modern UI.
+### 🎂 Happy Birthday Website
 
-🚧 Currently Under Development
+A creative animated birthday website with interactive effects and a modern UI.
+
+**🛠 Tech Stack:** HTML • CSS • JavaScript
+
+<a href="https://github.com/NIHARIKA8400/happy-birthday">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://niharika8400.github.io/happy-birthday/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge">
+</a>
 
 </td>
+
 </tr>
+
 </table>
-<td width="50%" valign="top">
-
-### 💼 Portfolio Website
-
-A modern and responsive personal portfolio showcasing my skills, projects, achievements, and contact information.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-<a href="https://github.com/NIHARIKA8400/portfolio">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://niharika8400.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
 
 </td>
