@@ -1,6 +1,43 @@
 <p align="center">
   <img src="banner.png" alt="Niharika Singh Banner" width="100%">
 </p>
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://avatars.githubusercontent.com/NIHARIKA8400?s=400" width="250" style="border-radius:50%;">
+
+</td>
+
+<td width="65%">
+
+<h1>Hi 👋 I'm Niharika Singh</h1>
+
+<h3>💻 Computer Science Student</h3>
+
+<h3>📊 Aspiring Data Analyst</h3>
+
+<h3>🌐 Web Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00E5FF&width=450&lines=Aspiring+Data+Analyst;Web+Developer;Always+Learning+New+Things🚀"/>
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">🪪 Developer Identity</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/👩_Name-Niharika_Singh-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Country-India-4169E1?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/💻_Role-Web_Developer-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Goal-Data_Analyst-0096FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌱_Learning-Java_&_Python-00CED1?style=for-the-badge"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Niharika Singh</h1>
 
@@ -21,11 +58,28 @@ Open To     : Internships & Open Source
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Web+Developer;Always+Learning+New+Things+🚀" />
 </p>
-<h2 align="center">🛠 Tech Stack</h2>
+
+## 🎯 Currently Working On
+
+- 🌐 Building Responsive Websites
+- 📊 Learning Data Analytics
+- ☕ Improving Java Skills
+- 🚀 Creating Open Source Projects
+
+<h2 align="center">💻 Coding Vibes</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 </p>
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode"/>
+
+</p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
