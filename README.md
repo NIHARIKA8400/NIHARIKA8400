@@ -177,8 +177,3 @@ A creative animated birthday website with interactive effects and a modern UI.
 </table>
 
 </td>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NIHARIKA8400/NIHARIKA8400/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
