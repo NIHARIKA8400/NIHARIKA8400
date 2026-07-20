@@ -177,3 +177,12 @@ A creative animated birthday website with interactive effects and a modern UI.
 </table>
 
 </td>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIHARIKA8400&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat. 🚀"
+## ☕ Support Me
+
+⭐ If you like my work, don't forget to Star my repositories!
