@@ -42,13 +42,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
-<h2 align="center">🪪 Developer Identity</h2>
 
-<p align="center">
-<img src="id-card.png" width="320">
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ## 👩‍💻 About Me
 
