@@ -3,28 +3,43 @@
 </p>
 <table>
 <tr>
-<td width="35%" align="center">
 
-<img src="https://avatars.githubusercontent.com/NIHARIKA8400?s=400" width="250" style="border-radius:50%;">
+<td width="32%" align="center">
+
+<img src="profile.jpeg" width="260" alt="Niharika Singh">
 
 </td>
 
-<td width="65%">
+<td width="68%" valign="top">
 
 <h1>Hi 👋 I'm Niharika Singh</h1>
 
 <h3>💻 Computer Science Student</h3>
-
 <h3>📊 Aspiring Data Analyst</h3>
-
 <h3>🌐 Web Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00E5FF&width=450&lines=Aspiring+Data+Analyst;Web+Developer;Always+Learning+New+Things🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=00D9FF&width=450&lines=Turning+Data+Into+Insights;Building+Modern+Websites;Learning+Python+%26+SQL;Always+Learning+New+Things+🚀"/>
+
+<br><br>
+
+<a href="https://github.com/NIHARIKA8400">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/niharika-singh-b18296335">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+<img src="id-card.png" width="340">
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">🪪 Developer Identity</h2>
