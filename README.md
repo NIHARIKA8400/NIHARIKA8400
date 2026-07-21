@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Niharika Singh Banner" width="100%">
+  <img src="banner.png" width="100%" alt="Niharika Singh Banner">
 </p>
 <table>
 <tr>
@@ -25,20 +25,15 @@
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <h2 align="center">🪪 Developer Identity</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/👩_Name-Niharika_Singh-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📍_Country-India-4169E1?style=for-the-badge"/>
+<img src="id-card.png" width="320">
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/💻_Role-Web_Developer-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Goal-Data_Analyst-0096FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🌱_Learning-Java_&_Python-00CED1?style=for-the-badge"/>
-</p>
-
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ## 👩‍💻 About Me
 
@@ -56,6 +51,8 @@ Open To     : Internships & Open Source
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Web+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 ## 🎯 Currently Working On
 
 - 🌐 Building Responsive Websites
@@ -63,11 +60,15 @@ Open To     : Internships & Open Source
 - ☕ Improving Java Skills
 - 🚀 Creating Open Source Projects
 
+v
+
 <h2 align="center">💻 Coding Vibes</h2>
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -76,6 +77,22 @@ Open To     : Internships & Open Source
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode"/>
 
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
+<p align="left">
+
+<a href="https://github.com/NIHARIKA8400">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niharika-singh-b18296335">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>+
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -86,16 +103,25 @@ Open To     : Internships & Open Source
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=NIHARIKA8400&theme=tokyonight&hide_border=true"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NIHARIKA8400&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -115,11 +141,16 @@ Open To     : Internships & Open Source
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIHARIKA8400&theme=tokyo-night&hide_border=true"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ## 🏆 Achievements
 
@@ -127,6 +158,8 @@ Open To     : Internships & Open Source
 - 💻 Created JavaScript based applications
 - 🌱 Learning Data Analytics & Machine Learning
 - ⭐ Active GitHub contributor
+
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
   
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -134,6 +167,8 @@ Open To     : Internships & Open Source
 <tr>
 
 <td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ### 💼 Portfolio Website
 
@@ -152,6 +187,8 @@ A modern, responsive personal portfolio showcasing my skills, projects, achievem
 </td>
 
 <td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ### 🌦️ Weather App
 
@@ -175,6 +212,8 @@ A real-time weather application powered by the OpenWeather API.
 
 <td width="50%" valign="top">
 
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 ### 🧮 Scientific Calculator
 
 A Casio-inspired scientific calculator with advanced mathematical functions.
@@ -192,6 +231,8 @@ A Casio-inspired scientific calculator with advanced mathematical functions.
 </td>
 
 <td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 ### 🍵 Paan Shop Website
 
@@ -215,6 +256,8 @@ A responsive business website with a clean, modern interface.
 
 <td colspan="2" align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 ### 🎂 Happy Birthday Website
 
 A creative animated birthday website with interactive effects and a modern UI.
@@ -236,15 +279,26 @@ A creative animated birthday website with interactive effects and a modern UI.
 </table>
 
 </td>
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NIHARIKA8400&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat. 🚀"
+
+ <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+ 
 ## ☕ Support Me
 
 ⭐ If you like my work, don't forget to Star my repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </p>
