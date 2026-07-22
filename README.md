@@ -121,11 +121,6 @@ v
 
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
@@ -158,6 +153,15 @@ v
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 
 ## 🏆 Achievements
 
