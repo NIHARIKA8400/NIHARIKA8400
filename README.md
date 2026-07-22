@@ -93,27 +93,7 @@ v
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>+
-
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NIHARIKA8400&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NIHARIKA8400&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NIHARIKA8400&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIHARIKA8400&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
-
 
 <h2 align="center">🌐 Connect With Me</h2>
 
