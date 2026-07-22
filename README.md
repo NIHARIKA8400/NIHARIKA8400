@@ -99,10 +99,9 @@ v
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NIHARIKA8400&show_icons=true&theme=tokyonight&hide_border=true"/>
- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIHARIKA8400&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NIHARIKA8400&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NIHARIKA8400&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NIHARIKA8400&theme=tokyonight&hide_border=true"/>
 </p>
