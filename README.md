@@ -40,9 +40,6 @@
 <p align="center">
 <img src="id-card.png" width="340">
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
-
-
 
 ## 👩‍💻 About Me
 
@@ -60,8 +57,6 @@ Open To     : Internships & Open Source
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Web+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
-
 ## 🎯 Currently Working On
 
 - 🌐 Building Responsive Websites
@@ -77,7 +72,6 @@ v
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -122,8 +116,6 @@ v
 <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -144,7 +136,6 @@ v
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -152,16 +143,12 @@ v
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIHARIKA8400&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
-
 
 ## 🏆 Achievements
 
@@ -170,7 +157,6 @@ v
 - 🌱 Learning Data Analytics & Machine Learning
 - ⭐ Active GitHub contributor
 
-  <img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
   
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -179,7 +165,7 @@ v
 
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-91b0c4b8-9cb5-4d35-b8ef-df0b97d4e62d.gif" width="100%">
+
 
 ### 💼 Portfolio Website
 
